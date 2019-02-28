@@ -39,8 +39,6 @@ public class ControlState
             }
         });
 
-        //controls.forEach();
-
         return true;
     }
 
